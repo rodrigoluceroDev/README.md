@@ -1,5 +1,5 @@
 <h1 align="center">Hola mi nombre es Rodrigo</h1>
-<h3 align="center">soy estudiante de 2° año en la Tecnicatura de Desarrollo de Software</h3>
+<h3 align="center">Soy estudiante de 2° año en la Tecnicatura de Desarrollo de Software</h3>
 
 - 💬Tengo conocimientos en **Java, PHP, HTML, CSS, JavaScript, MySQL**
 
